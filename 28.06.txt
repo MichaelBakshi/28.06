@@ -1,6 +1,0 @@
-1. newobj
-2. yes =  static
-3. call for Writeline
-   callvirt for TeelMeHowManyPlayers
-   call for static, 
-   callvirt  - for virtual methods
