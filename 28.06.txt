@@ -1,0 +1,16 @@
+1. newobj
+2. yes =  static
+3. call for Writeline
+   callvirt for TeelMeHowManyPlayers
+   call for static, 
+   callvirt  - for virtual methods
+
+
+1.זוהי שפת  ביניים שמתרגמת בעצם את הפקודות שכתובות בפלטפורמות שונות של .NET
+כגון,  F# או VB.NET או C#
+לשפה ברמה יותר נמוכה ומשם הן מתורגמות לשפה של המחשב, של מכונה
+
+2. כדי לראות את הקוד בצורה שונה ולאתר את השגיאות . ILDASM
+כדי לתקן ישירות את השגיאות בקוד  ILASM
+
+3. ILDASM נותן לנו לראות את המאפיינים בצורה שהיא יותר קרובה לשפה האנושית
